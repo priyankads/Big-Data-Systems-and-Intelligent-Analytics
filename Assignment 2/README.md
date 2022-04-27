@@ -1,7 +1,7 @@
 # DAMG7245-Assignment-2
 DAMG7245-Assignment-2-Repo
 
-[Live GitHub Page](https://kshitijzutshi.github.io/DAMG7245-Assignment-2-Repo/) :rocket:
+[Live GitHub Page](https://priyankads.github.io/Big-Data-Systems-and-Intelligent-Analytics/Assignment%202/) :rocket:
 
 ### Part I : Generating Data for Synrad and Nowcasting for SEVIR 
 
