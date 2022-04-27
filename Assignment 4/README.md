@@ -1,4 +1,4 @@
-# SEVIR-Nowcasting
+# SEVIR-Assignment 4
 
 ### Part 1
 ### [Codelab Live Preview - Assignment 4 Part 1](https://codelabs-preview.appspot.com/?file_id=1kNMjzbmjwTOLaRWZ-A6tzwi8dv_c1SvRekyrmOQwSkE#1) 🚀
