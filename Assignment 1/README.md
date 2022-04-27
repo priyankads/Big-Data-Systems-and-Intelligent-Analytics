@@ -1,6 +1,6 @@
 # Data Ingestion and Visualization using GCP
 
-[Live GitHub Page](https://kshitijzutshi.github.io/DAMG7245-Assignment1/) :rocket:
+[Live GitHub Page](https://priyankads.github.io/Big-Data-Systems-and-Intelligent-Analytics/Assignment%201/) :rocket:
 
 ### Understanding the SEVIR dataset
 
