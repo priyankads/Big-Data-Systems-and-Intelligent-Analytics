@@ -1,4 +1,4 @@
-# DAMG7245-Assignment-2-Repo
+# DAMG7245-Assignment-2
 DAMG7245-Assignment-2-Repo
 
 [Live GitHub Page](https://kshitijzutshi.github.io/DAMG7245-Assignment-2-Repo/) :rocket:
