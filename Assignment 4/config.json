@@ -1,0 +1,5 @@
+{
+    "mse_model": "..\\model\\mse_model.h5",
+    "images_path": "..\\data\\",
+    "catalog_storm_csv": "catalog_storm_combined.csv"
+}
