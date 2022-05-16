@@ -287,12 +287,6 @@ For the scope of the project we have incorporated the following Github Actions w
  ┗ 📜send_email.py
  ```
 
-
-# Project Demo Walk through Video
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MqxsdbIJzzc/0.jpg)](https://www.youtube.com/watch?v=MqxsdbIJzzc)
-
-
 # Reference 
 
 [How to build a music recommender system. | Towards Data Science](https://towardsdatascience.com/how-to-build-an-amazing-music-recommendation-system-4cce2719a572)
