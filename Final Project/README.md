@@ -17,7 +17,6 @@
 
 [Access the Claat document here](https://codelabs-preview.appspot.com/?file_id=12z0C4Hw5840SwWBf6vqpAS81ir7TEm-NcLhjHyZOQW4#12) 🚀
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kshitijzutshi/DAMG7245-Final-Project)
 
 # Overview 📝
 
